@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<resources>
+  <image name="RadialMenuBackground">
+    <image-file file="Images\radialmenu_background.png" />
+  </image>
+  <sprite name="RadialMenuPointer">
+    <image-file file="Images\radialmenu_arrow.png" />
+  </sprite>
+  <image name="ToolbarBackground">
+    <image-file file="Images\toolbar_background.png" />
+  </image>
+  
+  //____________________________________________________________________________________
+  //                                                                         S O U N D S
+    
+  <sample name="Music1" file="Sound/Song.ogg"/>
+     <sample name="Explosion1" file="Sound/explosion1.wav"/>
+     <sample name="Explosion2" file="Sound/explosion2.wav"/>
+     <sample name="Hurt1" file="Sound/hurt1.wav"/>
+     <sample name="Hurt2" file="Sound/hurt2.wav"/>
+     <sample name="Powerup1" file="Sound/powerup1.wav"/>
+     <sample name="Shoot1" file="Sound/shoot1.wav"/>
+</resources>
